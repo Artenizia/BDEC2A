@@ -1,4 +1,4 @@
 # BDEC2A
-Aula EC/BD 2A
-Artenizia Soares
-RA 1900711
+Aula EC/BD 2A<br/>
+Artenizia Soares<br/>
+RA 1900711<br/>
